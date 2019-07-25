@@ -81,7 +81,7 @@
       </li>
     </ul>
     <h1>
-      <router-link to="myVue">跳转至HelloVue</router-link>
+      <router-link to="myVue">To HelloVue</router-link>
     </h1>
   </div>
 </template>
